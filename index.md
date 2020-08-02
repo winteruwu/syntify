@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+## Welcome to Syntify.
+This bot is providing moderation commands, fun commands. 
+How to use the commands? use the prefix syn!
+See all commands with syn!help. 
+About the Bot syntify is a multi-functional bot with the genre of fun and moderation! Syntify is in the early process of coding, so expect errors, malfunctions & bugs. 
+The goal with Syntify is to get him big and show people that you can make anything in JavaScript, Python, or any other coding language. Everything is possible for Discord Bots! 
+We’d like to hear your opinion about our bot syntify! 
+We made this bot for you, we hope you enjoy syntify and his commands. The bot will get more commands in future:
 
-You can use the [editor on GitHub](https://github.com/winteruwu/syntify.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The commands!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+syn!help
+Shows a list of commands, and brings up this message.
 
-### Markdown
+syn!8ball
+Ask the magic (and kinda rude) 8ball about your future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+syn!kiss
+Kisses a member.
 
-```markdown
-Syntax highlighted code block
+syn!hug
+Hugs a member.
 
-# Header 1
-## Header 2
-### Header 3
+syn!shibe
+Shows up a Shiba-Inu dog picture.
 
-- Bulleted
-- List
+syn!meme
+Shows a meme from reddit.
 
-1. Numbered
-2. List
+syn!say
+Makes the bot say a message.
 
-**Bold** and _Italic_ and `Code` text
+syn!serverinfo
+Shows information on the server.
 
-[Link](url) and ![Image](src)
-```
+syn!uptime
+Shows how much time the bot has been on.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+syn!invite
+The bot will say the invite links and details.
 
-### Jekyll Themes
+syn!staffcmds
+Commands for Staff.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winteruwu/syntify.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+syn!credits
+Shows who made syntify.
 
-### Support or Contact
+syn!ascii
+Makes the text after the command in ASCII format.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+syn!poll
+Creates a poll.
+
+syn!roll
+Rolls a die.
+
+syn!howgay
+Shows a gay meter.
+
+syn!joke
+Tells you a joke.
+
+syn!xmas
+Shows how many days left until Christmas.
+
+syn!flip
+Flips a coin.
+
+syn!rps
+Rock Paper Scissors!
+
+syn!balance
+Shows your current balance.
+
+syn!work
+Pick a job and work!
+
+syn!top
+Shows top balance.
+
+syn!random
+Shows a random number.
+
+syn!latency
+Shows the latency.
