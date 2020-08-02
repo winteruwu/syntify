@@ -5,7 +5,7 @@ See all commands with syn!help.
 About the Bot syntify is a multi-functional bot with the genre of fun and moderation! Syntify is in the early process of coding, so expect errors, malfunctions & bugs. 
 The goal with Syntify is to get him big and show people that you can make anything in JavaScript, Python, or any other coding language. Everything is possible for Discord Bots! 
 We’d like to hear your opinion about our bot syntify! 
-We made this bot for you, we hope you enjoy syntify and his commands. The bot will get more commands in future:
+We made this bot for you, we hope you enjoy syntify and his commands. The bot will get more commands in future.
 
 ## The commands!
 
