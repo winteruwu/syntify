@@ -9,102 +9,52 @@ We made this bot for you, we hope you enjoy syntify and his commands. The bot wi
 
 ## The commands!
 
-syn!help
+syn!help       || Shows a list of commands.
 
-Shows a list of commands.
+syn!8ball      || Ask the magic (and kinda rude) 8ball about your future.
 
-syn!8ball
+syn!kiss       || Kisses a member.
 
-Ask the magic (and kinda rude) 8ball about your future.
+syn!hug        || Hugs a member.
 
-syn!kiss
+syn!shibe      || Shows up a Shiba-Inu dog picture.
 
-Kisses a member.
+syn!meme       || Shows a meme from reddit.
 
-syn!hug
+syn!say        || Makes the bot say a message.
 
-Hugs a member.
+syn!serverinfo || Shows information on the server.
 
-syn!shibe
+syn!uptime     || Shows how much time the bot has been on.
 
-Shows up a Shiba-Inu dog picture.
+syn!invite     || The bot will say the invite links and details.
 
-syn!meme
+syn!staffcmds  || Commands for Staff.
 
-Shows a meme from reddit.
+syn!credits    || Shows who made syntify.
 
-syn!say
+syn!ascii      || Makes the text after the command in ASCII format.
 
-Makes the bot say a message.
+syn!poll       || Creates a poll.
 
-syn!serverinfo
+syn!roll       || Rolls a die.
+ss
+syn!howgay     || Shows a gay meter.
 
-Shows information on the server.
+syn!joke       || Tells you a joke.
 
-syn!uptime
+syn!xmas       || Shows how many days left until Christmas.
 
-Shows how much time the bot has been on.
+syn!flip       || Flips a coin.
 
-syn!invite
+syn!rps        || Rock Paper Scissors!
 
-The bot will say the invite links and details.
+syn!balance    || Shows your current balance.
 
-syn!staffcmds
+syn!work       || Pick a job and work!
 
-Commands for Staff.
+syn!top        || Shows top balance.
 
-syn!credits
+syn!random     || Shows a random number.
 
-Shows who made syntify.
-
-syn!ascii
-
-Makes the text after the command in ASCII format.
-
-syn!poll
-
-Creates a poll.
-
-syn!roll
-
-Rolls a die.
-
-syn!howgay
-
-Shows a gay meter.
-
-syn!joke
-
-Tells you a joke.
-
-syn!xmas
-
-Shows how many days left until Christmas.
-
-syn!flip
-
-Flips a coin.
-
-syn!rps
-
-Rock Paper Scissors!
-
-syn!balance
-
-Shows your current balance.
-
-syn!work
-
-Pick a job and work!
-
-syn!top
-
-Shows top balance.
-
-syn!random
-
-Shows a random number.
-
-syn!latency
-
-Shows the latency.
+syn!latency    || Shows the latency.
