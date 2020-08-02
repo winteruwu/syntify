@@ -1,23 +1,26 @@
+
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Alucard Selfbot">
-    
-    <meta name="theme-color" content="#fafafa">
+<html lang="en">
+
+<head>
+    <meta name="description" content="Syntfy">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="theme-color" content="#ffffff">
     <link rel="icon" type="image/png" href="https://alucard-selfbot.github.io/img/Favicon.png">
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/materialize.css">
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/alucard.css">
-    <link href="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://alucard-selfbot.github.io/css/materialize.css">
+    <link rel="stylesheet" href="https://alucard-selfbot.github.io/css/alucard.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/6bfbd8fad0.js.download" crossorigin="anonymous" type="text/javascript"></script><link rel="stylesheet" href="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/free.min.css" media="all"><link rel="stylesheet" href="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/free-v4-font-face.min.css" media="all"><link rel="stylesheet" href="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/free-v4-shims.min.css" media="all">
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/bootstrap.min.js.download" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" type="text/javascript"></script>
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/jquery-3.4.1.min.js.download" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/jquery.particleground.min.js.download"></script>
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/typewriter.js.download"></script>
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/smooth-scroll.polyfills.min.js.download"></script>
-<title>syntify</title></head>
+    <script src="https://kit.fontawesome.com/6bfbd8fad0.js" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://alucard-selfbot.github.io/js/jquery.particleground.min.js"></script>
+    <script src="https://alucard-selfbot.github.io/js/typewriter.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15/dist/smooth-scroll.polyfills.min.js"></script>
+</head>
+<title>Syntify</title>
 
-
-<body class="black white-text" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+<body class="black white-text">
     <script>
         $(document).ready(function() {
             $('.particles').particleground({
@@ -29,69 +32,69 @@
     </script>
     <div class="navigation">
         <div class="navbar transparent">
-            <a href="https://alucard-selfbot.github.io/"><img alt="Alucard" src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/ALUCARD-RESIZED.png" width="240"></a>
             <ul class="nav navbar-nav navbar-right">
                 <div class="row">
-                    <li><a href="https://winteruwu.github.io/syntify/" class="button">Commands <i class="fas fa-cogs" aria-hidden="true"></i></a></li>
-                    <li><a href="https://discord.gg/bK8ZFK5" class="button">Support <i class="fab fa-discord" aria-hidden="true"></i></a></li>
+                    <li><a href="https://discord.com/api/oauth2/authorize?client_id=735929825080115222&permissions=8&scope=bot" class="button">Home <i class="fas fa-home"></i></a></li>
+                    <li><a href="/" class="button">Commands <i class="fas fa-cogs"></i></a></li>
+                    <li><a href="https://discord.gg/HXwmrqv" class="button">Support <i class="fab fa-discord"></i></a></li>
                 </div>
             </ul>
         </div>
     </div>
-    <div class="particles"><canvas class="pg-canvas" width="1903" height="150" style="display: block;"></canvas></div>
-    <script src="https://raw.githubusercontent.com/winteruwu/syntify/gh-pages/syntify_files/aos.js.download"></script>
+    <div class="particles"></div>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
         AOS.init();
     </script>
-
+</body>
 
 <!-- Commands Table -->
 
 <main>
-    <div class="container">
-        <h3 class="light">Commands [22]</h3>
-        <table>
-            <thead>
-                <tr>
-                    <th></th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>help</td>
-                    <td>Displays help menu.</td>
-                </tr>
-                <tr>
-                    <td>8ball</td>
-                    <td>Ask the magic (and kinda rude) 8ball about your future.</td>
-                </tr>
-                <tr>
-                    <td>kiss</td>
-                    <td>Kisses a member.</td>
-                </tr>
-                <tr>
-                    <td>hug</td>
-                    <td>Hugs a member.</td>
-                </tr>
-                <tr>
-                    <td>shibe</td>
-                    <td>Shows up a Shiba-Inu dog picture.</td>
-                </tr>
-                <tr>
-                    <td>say</td>
-                    <td>Says a message.</td>
-                </tr>
-                <tr>
-                    <td>serverinfo</td>
-                    <td>Shows information on the server.</td>
-                </tr>
-            </tr></tbody>
-        </table>
-        <br>
-        <br>
-    </div>
-</main>
+    <main>
+        <div class="container">
+            <h3 class="light">Commands [22]</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>help</td>
+                        <td>Displays help menu.</td>
+                    </tr>
+                    <tr>
+                        <td>8ball</td>
+                        <td>Ask the magic (and kinda rude) 8ball about your future.</td>
+                    </tr>
+                    <tr>
+                        <td>kiss</td>
+                        <td>Kisses a member.</td>
+                    </tr>
+                    <tr>
+                        <td>hug</td>
+                        <td>Hugs a member.</td>
+                    </tr>
+                    <tr>
+                        <td>shibe</td>
+                        <td>Shows up a Shiba-Inu dog picture.</td>
+                    </tr>
+                    <tr>
+                        <td>say</td>
+                        <td>Says a message.</td>
+                    </tr>
+                    <tr>
+                        <td>serverinfo</td>
+                        <td>Shows information on the server.</td>
+                    </tr>
+                </tr></tbody>
+            </table>
+            <br>
+            <br>
+        </div>
+    </main>
 
-
-<style type="text/css">.typewrite > .wrap { border-right: 0.08em solid rgba(255, 255, 255, 0.747)}</style></body></html>
+</html>
